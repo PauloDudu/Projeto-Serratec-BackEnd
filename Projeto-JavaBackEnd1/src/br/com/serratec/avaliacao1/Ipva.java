@@ -45,13 +45,4 @@ public class Ipva extends Veiculo {
         System.out.println("\n");
         }
     }
-
-
-
-	
-	
-	
-
-	
-	
 }

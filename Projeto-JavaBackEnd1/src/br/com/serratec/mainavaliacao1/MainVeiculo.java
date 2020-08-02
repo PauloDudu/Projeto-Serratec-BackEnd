@@ -49,7 +49,6 @@ public class MainVeiculo {
 				System.out.println("Valor invalido!!");
 				boo = 1;
 			}
-
 		}
 	}
 }

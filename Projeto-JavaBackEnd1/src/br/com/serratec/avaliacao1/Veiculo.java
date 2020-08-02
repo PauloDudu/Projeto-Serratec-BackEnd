@@ -13,7 +13,6 @@ public class Veiculo {
 		this.valorVeiculo = valorVeiculo;
 	}
 
-
 	@Override
 	public String toString() {
 		return "Veiculo [modelo=" + modelo + ", placa=" + placa + ", combustivel=" + combustivel + ", valorVeiculo="
@@ -36,16 +35,4 @@ public class Veiculo {
 	public double getValorVeiculo() {
 		return valorVeiculo;
 	}
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 }
